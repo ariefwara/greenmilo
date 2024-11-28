@@ -27,6 +27,9 @@ components/
 └── Tabs.js         # A tab navigation component
 ```
 
+![Screenshot of Green-Milo Components](./assets/screenshot.png)
+
+
 ## Usage
 
 1. Navigate to the `components` directory:
