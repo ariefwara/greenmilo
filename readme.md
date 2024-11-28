@@ -27,7 +27,10 @@ components/
 └── Tabs.js         # A tab navigation component
 ```
 
-![Screenshot of Green-Milo Components](./assets/screenshot.png)
+<div style="display: flex; align-items: center;">
+  <img src="./assets/screenshot.png" alt="Screenshot of Green-Milo Components" width="200px">
+  <p style="margin-left: 20px;">This screenshot provides a visual overview of the Green-Milo components, illustrating their design and layout. It helps developers understand how these components can be integrated into their projects.</p>
+</div>
 
 
 ## Usage
