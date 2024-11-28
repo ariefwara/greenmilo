@@ -1,4 +1,4 @@
-# Green-Milo
+# Greenmilo
 
 **Green-Milo** is a design system providing modern, reusable, and customizable UI components for React Native and Expo projects. Designed for flexibility and simplicity, developers can easily integrate components by copying and pasting them into their own projects.
 
@@ -27,8 +27,9 @@ components/
 └── Tabs.js         # A tab navigation component
 ```
 
-<img src="./assets/screenshot.jpeg" alt="Screenshot of Green-Milo Components" width="300px">
-<p style="margin-left: 20px;">This screenshot provides a visual overview of the Green-Milo components, illustrating their design and layout. It helps developers understand how these components can be integrated into their projects.</p>
+![Screenshot of Green-Milo Components](./assets/screenshot.jpeg)
+
+This screenshot provides a visual overview of the Greenmilo components, illustrating the design and layout. It helps developers understand how these components can be integrated into projects.
 
 
 
